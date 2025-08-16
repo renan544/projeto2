@@ -1,0 +1,29 @@
+/*1. reset e estilos globais*/
+:root{
+    --cor-fundo: #f0f2F5;
+    --cor-branco: #ffffff;
+    --cor-texto-primario: #9e9898;
+    --cor-texto-secundario:#4e4e4e;
+    --cor-borda:#ffffff;
+    --cor-acento:#4122ee;
+    
+
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: apple-system, 'Segoe UI', roboto, 'Helvetica Neue', Arial, sans-serif;
+    background-color: #f0f2F5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+
+
+
+/* 1. declaração das variaveis de cores*/
